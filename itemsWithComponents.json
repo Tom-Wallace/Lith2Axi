@@ -1,0 +1,499 @@
+{
+    "Akarius Prime": {
+        "Akarius Prime Receiver": [
+            "Lith A7 Relic"
+        ],
+        "Akarius Prime Blueprint": [
+            "Meso A7 Relic"
+        ],
+        "Akarius Prime Link": [
+            "Meso N17 Relic",
+            "Meso T7 Relic"
+        ],
+        "Akarius Prime Barrel": [
+            "Neo A13 Relic",
+            "Neo X1 Relic"
+        ]
+    },
+    "Fulmin Prime": {
+        "Fulmin Prime Blueprint": [
+            "Lith A7 Relic"
+        ],
+        "Fulmin Prime Stock": [
+            "Lith Q1 Relic",
+            "Meso V10 Relic"
+        ],
+        "Fulmin Prime Barrel": [
+            "Neo G8 Relic",
+            "Axi Z2 Relic"
+        ],
+        "Fulmin Prime Receiver": [
+            "Axi F3 Relic"
+        ]
+    },
+    "Wisp Prime": {
+        "Wisp Prime Neuroptics Blueprint": [
+            "Lith A7 Relic",
+            "Lith G13 Relic",
+            "Neo A13 Relic"
+        ],
+        "Wisp Prime Systems Blueprint": [
+            "Lith Q1 Relic",
+            "Meso T7 Relic"
+        ],
+        "Wisp Prime Chassis Blueprint": [
+            "Lith W4 Relic"
+        ],
+        "Wisp Prime Blueprint": [
+            "Neo W2 Relic"
+        ]
+    },
+    "Cedo Prime": {
+        "Cedo Prime Stock": [
+            "Lith A7 Relic"
+        ],
+        "Cedo Prime Blueprint": [
+            "Neo C6 Relic"
+        ],
+        "Cedo Prime Barrel": [
+            "Neo T9 Relic"
+        ],
+        "Cedo Prime Receiver": [
+            "Axi M6 Relic"
+        ]
+    },
+    "Sevagoth Prime": {
+        "Sevagoth Prime Systems Blueprint": [
+            "Lith A7 Relic",
+            "Meso G8 Relic"
+        ],
+        "Sevagoth Prime Chassis Blueprint": [
+            "Lith S16 Relic"
+        ],
+        "Sevagoth Prime Neuroptics Blueprint": [
+            "Meso A7 Relic",
+            "Neo T9 Relic",
+            "Axi G14 Relic"
+        ],
+        "Sevagoth Prime Blueprint": [
+            "Neo A13 Relic",
+            "Axi Z2 Relic"
+        ]
+    },
+    "Nautilus Prime": {
+        "Nautilus Prime Carapace": [
+            "Lith A7 Relic",
+            "Neo W2 Relic"
+        ],
+        "Nautilus Prime Cerebrum": [
+            "Lith N16 Relic"
+        ],
+        "Nautilus Prime Systems": [
+            "Lith Q1 Relic"
+        ],
+        "Nautilus Prime Blueprint": [
+            "Meso N17 Relic"
+        ]
+    },
+    "Cernos Prime": {
+        "Cernos Prime Lower Limb": [
+            "Lith C7 Relic"
+        ],
+        "Cernos Prime Upper Limb": [
+            "Meso N11 Relic"
+        ],
+        "Cernos Prime Blueprint": [
+            "Neo V9 Relic"
+        ],
+        "Cernos Prime Grip": [
+            "Axi S8 Relic"
+        ],
+        "Cernos Prime String": [
+            "Axi V10 Relic"
+        ]
+    },
+    "Nyx Prime": {
+        "Nyx Prime Systems Blueprint": [
+            "Lith C7 Relic"
+        ],
+        "Nyx Prime Neuroptics Blueprint": [
+            "Meso N11 Relic"
+        ],
+        "Nyx Prime Blueprint": [
+            "Neo V9 Relic"
+        ],
+        "Nyx Prime Chassis Blueprint": [
+            "Axi S8 Relic"
+        ]
+    },
+    "Scindo Prime": {
+        "Scindo Prime Blueprint": [
+            "Lith C7 Relic"
+        ],
+        "Scindo Prime Handle": [
+            "Meso N11 Relic"
+        ],
+        "Scindo Prime Blade": [
+            "Axi S8 Relic"
+        ]
+    },
+    "Valkyr Prime": {
+        "Valkyr Prime Blueprint": [
+            "Lith C7 Relic"
+        ],
+        "Valkyr Prime Neuroptics Blueprint": [
+            "Meso N11 Relic"
+        ],
+        "Valkyr Prime Chassis Blueprint": [
+            "Neo V9 Relic"
+        ],
+        "Valkyr Prime Systems Blueprint": [
+            "Axi V10 Relic"
+        ]
+    },
+    "Hikou Prime": {
+        "Hikou Prime Pouch": [
+            "Lith C7 Relic"
+        ],
+        "Hikou Prime Blueprint": [
+            "Axi S8 Relic"
+        ],
+        "Hikou Prime Stars": [
+            "Axi V10 Relic"
+        ]
+    },
+    "Gunsen Prime": {
+        "Gunsen Prime Blade": [
+            "Lith G13 Relic"
+        ],
+        "Gunsen Prime Blueprint": [
+            "Lith N16 Relic",
+            "Axi P9 Relic"
+        ],
+        "Gunsen Prime Handle": [
+            "Meso P15 Relic"
+        ]
+    },
+    "Grendel Prime": {
+        "Grendel Prime Chassis Blueprint": [
+            "Lith G13 Relic"
+        ],
+        "Grendel Prime Blueprint": [
+            "Meso G8 Relic"
+        ],
+        "Grendel Prime Systems Blueprint": [
+            "Axi G14 Relic"
+        ],
+        "Grendel Prime Neuroptics Blueprint": [
+            "Axi M6 Relic"
+        ]
+    },
+    "Braton Prime": {
+        "Braton Prime Blueprint": [
+            "Lith G13 Relic",
+            "Axi O6 Relic"
+        ],
+        "Braton Prime Barrel": [
+            "Lith N16 Relic",
+            "Neo T9 Relic"
+        ],
+        "Braton Prime Stock": [
+            "Meso A7 Relic",
+            "Meso G8 Relic",
+            "Axi F3 Relic"
+        ],
+        "Braton Prime Receiver": [
+            "Neo X1 Relic"
+        ]
+    },
+    "Masseter Prime": {
+        "Masseter Prime Handle": [
+            "Lith G13 Relic",
+            "Lith S16 Relic",
+            "Meso N17 Relic"
+        ],
+        "Masseter Prime Blueprint": [
+            "Lith W4 Relic",
+            "Meso E6 Relic"
+        ],
+        "Masseter Prime Blade": [
+            "Axi M6 Relic"
+        ]
+    },
+    "Lavos Prime": {
+        "Lavos Prime Systems Blueprint": [
+            "Lith L5 Relic"
+        ],
+        "Lavos Prime Neuroptics Blueprint": [
+            "Meso A8 Relic"
+        ],
+        "Lavos Prime Chassis Blueprint": [
+            "Neo X1 Relic"
+        ],
+        "Lavos Prime Blueprint": [
+            "Axi F3 Relic"
+        ]
+    },
+    "Zylok Prime": {
+        "Zylok Prime Receiver": [
+            "Lith L5 Relic",
+            "Axi G14 Relic",
+            "Axi O6 Relic"
+        ],
+        "Zylok Prime Barrel": [
+            "Lith Q1 Relic",
+            "Meso P15 Relic"
+        ],
+        "Zylok Prime Blueprint": [
+            "Axi Z2 Relic"
+        ]
+    },
+    "Fang Prime": {
+        "Fang Prime Handle": [
+            "Lith L5 Relic"
+        ],
+        "Fang Prime Blueprint": [
+            "Lith N16 Relic",
+            "Axi P8 Relic"
+        ],
+        "Fang Prime Blade": [
+            "Meso A7 Relic",
+            "Axi G14 Relic"
+        ]
+    },
+    "Paris Prime": {
+        "Paris Prime Upper Limb": [
+            "Lith L5 Relic",
+            "Meso V10 Relic"
+        ],
+        "Paris Prime Grip": [
+            "Lith S16 Relic"
+        ],
+        "Paris Prime String": [
+            "Meso A7 Relic",
+            "Meso E6 Relic",
+            "Neo D9 Relic"
+        ],
+        "Paris Prime Lower Limb": [
+            "Meso G8 Relic"
+        ],
+        "Paris Prime Blueprint": [
+            "Neo C6 Relic"
+        ]
+    },
+    "Okina Prime": {
+        "Okina Prime Blade": [
+            "Lith L5 Relic",
+            "Meso T7 Relic"
+        ],
+        "Okina Prime Handle": [
+            "Meso A8 Relic",
+            "Neo G8 Relic"
+        ],
+        "Okina Prime Blueprint": [
+            "Axi O6 Relic"
+        ]
+    },
+    "Trumna Prime": {
+        "Trumna Prime Stock": [
+            "Lith N16 Relic"
+        ],
+        "Trumna Prime Barrel": [
+            "Meso T7 Relic"
+        ],
+        "Trumna Prime Receiver": [
+            "Neo T9 Relic"
+        ],
+        "Trumna Prime Blueprint": [
+            "Neo W2 Relic",
+            "Axi P9 Relic"
+        ]
+    },
+    "Gauss Prime": {
+        "Gauss Prime Blueprint": [
+            "Lith N16 Relic",
+            "Neo T9 Relic",
+            "Axi Z2 Relic"
+        ],
+        "Gauss Prime Chassis Blueprint": [
+            "Meso P15 Relic"
+        ],
+        "Gauss Prime Neuroptics Blueprint": [
+            "Meso T7 Relic",
+            "Axi P9 Relic"
+        ],
+        "Gauss Prime Systems Blueprint": [
+            "Neo G8 Relic"
+        ]
+    },
+    "Quassus Prime": {
+        "Quassus Prime Blade": [
+            "Lith Q1 Relic"
+        ],
+        "Quassus Prime Handle": [
+            "Meso A8 Relic",
+            "Axi G14 Relic"
+        ],
+        "Quassus Prime Blueprint": [
+            "Meso G8 Relic",
+            "Neo X1 Relic"
+        ]
+    },
+    "Bronco Prime": {
+        "Bronco Prime Receiver": [
+            "Lith Q1 Relic",
+            "Meso P15 Relic"
+        ],
+        "Bronco Prime Barrel": [
+            "Neo C6 Relic",
+            "Axi F3 Relic"
+        ],
+        "Bronco Prime Blueprint": [
+            "Neo G8 Relic"
+        ]
+    },
+    "Dual Zoren": {
+        "Dual Zoren Prime Blueprint": [
+            "Lith S16 Relic"
+        ],
+        "Dual Zoren Prime Blade": [
+            "Neo D9 Relic"
+        ],
+        "Dual Zoren Prime Handle": [
+            "Axi P8 Relic"
+        ]
+    },
+    "Xaku Prime": {
+        "Xaku Prime Neuroptics Blueprint": [
+            "Lith S16 Relic",
+            "Meso E6 Relic"
+        ],
+        "Xaku Prime Chassis Blueprint": [
+            "Neo G8 Relic"
+        ],
+        "Xaku Prime Blueprint": [
+            "Neo X1 Relic"
+        ],
+        "Xaku Prime Systems Blueprint": [
+            "Axi M6 Relic"
+        ]
+    },
+    "Epitaph Prime": {
+        "Epitaph Prime Barrel": [
+            "Lith W4 Relic",
+            "Axi P8 Relic"
+        ],
+        "Epitaph Prime Receiver": [
+            "Meso E6 Relic"
+        ],
+        "Epitaph Prime Blueprint": [
+            "Axi F3 Relic",
+            "Axi O6 Relic"
+        ]
+    },
+    "Burston Prime": {
+        "Burston Prime Stock": [
+            "Lith W4 Relic",
+            "Meso T7 Relic"
+        ],
+        "Burston Prime Receiver": [
+            "Meso A8 Relic"
+        ],
+        "Burston Prime Barrel": [
+            "Neo W2 Relic"
+        ],
+        "Burston Prime Blueprint": [
+            "Axi M6 Relic"
+        ]
+    },
+    "Protea Prime": {
+        "Protea Prime Blueprint": [
+            "Lith W4 Relic",
+            "Meso V10 Relic",
+            "Neo C6 Relic"
+        ],
+        "Protea Prime Systems Blueprint": [
+            "Meso P15 Relic",
+            "Axi P9 Relic"
+        ],
+        "Protea Prime Neuroptics Blueprint": [
+            "Neo D9 Relic"
+        ],
+        "Protea Prime Chassis Blueprint": [
+            "Axi P8 Relic"
+        ]
+    },
+    "Orthos Prime": {
+        "Orthos Prime Blade": [
+            "Meso A7 Relic"
+        ],
+        "Orthos Prime Blueprint": [
+            "Neo D9 Relic"
+        ],
+        "Orthos Prime Handle": [
+            "Axi P9 Relic"
+        ]
+    },
+    "Acceltra Prime": {
+        "Acceltra Prime Stock": [
+            "Meso A8 Relic"
+        ],
+        "Acceltra Prime Blueprint": [
+            "Meso N17 Relic",
+            "Meso V10 Relic",
+            "Axi M6 Relic"
+        ],
+        "Acceltra Prime Barrel": [
+            "Neo A13 Relic"
+        ],
+        "Acceltra Prime Receiver": [
+            "Axi O6 Relic",
+            "Axi Z2 Relic"
+        ]
+    },
+    "Akbronco Prime": {
+        "Akbronco Prime Link": [
+            "Meso E6 Relic"
+        ],
+        "Akbronco Prime Blueprint": [
+            "Neo W2 Relic"
+        ]
+    },
+    "Lex Prime": {
+        "Lex Prime Barrel": [
+            "Meso N11 Relic",
+            "Neo A13 Relic"
+        ],
+        "Lex Prime Receiver": [
+            "Neo D9 Relic",
+            "Axi V10 Relic"
+        ],
+        "Lex Prime Blueprint": [
+            "Neo V9 Relic",
+            "Axi Z2 Relic"
+        ]
+    },
+    "Velox Prime": {
+        "Velox Prime Blueprint": [
+            "Meso N17 Relic",
+            "Neo C6 Relic"
+        ],
+        "Velox Prime Barrel": [
+            "Meso V10 Relic"
+        ],
+        "Velox Prime Receiver": [
+            "Axi P8 Relic"
+        ]
+    },
+    "Venka Prime": {
+        "Venka Prime Blades": [
+            "Neo V9 Relic"
+        ],
+        "Venka Prime Blueprint": [
+            "Axi S8 Relic"
+        ],
+        "Venka Prime Gauntlet": [
+            "Axi V10 Relic"
+        ]
+    }
+}

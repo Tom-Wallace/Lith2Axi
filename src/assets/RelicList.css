@@ -1,0 +1,110 @@
+.relic-list-container {
+    display: flex;
+    height: 100vh; /* Full height of the viewport */
+    gap: 1rem; /* Add spacing between the columns */
+    padding: 1rem; /* Add padding around the container */
+    box-sizing: border-box; /* Ensure padding doesn't affect width */
+}
+
+.relic-column {
+    flex: 1; /* Each column takes up equal space */
+    overflow-y: auto; /* Enable vertical scrolling */
+    padding: 1rem; /* Add padding for spacing */
+    box-sizing: border-box; /* Ensure padding doesn't affect width */
+}
+
+.relic-column:first-child {
+    border-right: 1px solid #ccc; /* Add a border to separate the columns */
+}
+
+.relic-section {
+    margin-bottom: 0.2rem; /* Add spacing between sections */
+}
+
+.relic-section h2 {
+    margin-bottom: 0.5rem; /* Add spacing below section titles */
+    font-size: 1.5rem; /* Adjust font size for better readability */
+}
+
+.relic-section ul {
+    display: flex;
+    flex-wrap: wrap; /* Allow list items to wrap within the column */
+    gap: 0.25rem; /* Reduce spacing between list items */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+    list-style: none; /* Remove default list styling */
+    visibility: hidden; /* Hide the list by default */
+    max-height: 0; /* Collapse the list by default */
+    overflow: hidden; /* Prevent content from overflowing */
+    transition: max-height 0.3s ease, visibility 0.3s ease; /* Smooth transition */
+}
+
+.relic-section ul.expanded {
+    visibility: visible; /* Make the list visible */
+    max-height: 500px; /* Set a reasonable max height for expanded lists */
+}
+
+.relic-section ul li {
+    flex: 1 1 calc(33.33% - 0.5rem); /* Adjust width to account for reduced gap */
+    box-sizing: border-box; /* Ensure padding doesn't affect width */
+    background: #3e1e4d; /* Add a light background for better visibility */
+    padding: 0.5rem;
+    border: 1px solid #ddd; /* Add a border around each item */
+    border-radius: 4px; /* Add rounded corners */
+    text-align: center; /* Center-align text */
+    color: white; /* Ensure text is readable */
+}
+
+.toggle-button {
+    background-color: #3e1e4d;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+    border-radius: 4px;
+    text-align: left;
+    width: 100%;
+    font-size: 1rem;
+    position: relative; /* For positioning the close button */
+}
+
+.toggle-button:hover {
+    background-color: #5a2e6d;
+}
+
+.close-button {
+    position: absolute;
+    right: 0.5rem;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgb(116, 26, 26);
+    color: white;
+    border: thin solid white;
+    border-radius: 50%;
+    width: 1.5rem;
+    height: 1.5rem;
+    text-align: center;
+    line-height: 1.5rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
+
+.close-button:hover {
+    background-color: darkred;
+}
+
+.reset-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    margin-left: 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 1rem;
+}
+
+.reset-button:hover {
+    background-color: #0056b3;
+}
