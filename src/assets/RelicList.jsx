@@ -86,11 +86,9 @@ function RelicList() {
                                 {Object.entries(components).map(([component, relics], idx) => (
                                     <li key={idx}>
                                         {component}
-                                        <ul>
-                                            {relics.map((relic, relicIdx) => (
-                                                <li key={relicIdx}>{relic}</li>
-                                            ))}
-                                        </ul>
+                                        <span style={{ color: '#aaa', fontSize: '0.95em', marginLeft: '0.5em' }}>
+                                            [Relics: {relics.join(', ')}]
+                                        </span>
                                     </li>
                                 ))}
                             </ul>
