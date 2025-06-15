@@ -1,11 +1,11 @@
 {
-    "Lith A7 Relic": [
+    "Lith A8 Relic": [
         "Akarius Prime Receiver",
-        "Fulmin Prime Blueprint",
-        "Wisp Prime Neuroptics Blueprint",
-        "Cedo Prime Stock",
-        "Sevagoth Prime Systems Blueprint",
-        "Nautilus Prime Carapace"
+        "Daikyu Prime Lower Limb",
+        "Masseter Prime Blueprint",
+        "Bronco Prime Receiver",
+        "Braton Prime Barrel",
+        "Akbronco Prime Blueprint"
     ],
     "Lith C7 Relic": [
         "Cernos Prime Lower Limb",
@@ -14,13 +14,6 @@
         "Valkyr Prime Blueprint",
         "Hikou Prime Pouch"
     ],
-    "Lith G13 Relic": [
-        "Gunsen Prime Blade",
-        "Grendel Prime Chassis Blueprint",
-        "Wisp Prime Neuroptics Blueprint",
-        "Braton Prime Blueprint",
-        "Masseter Prime Handle"
-    ],
     "Lith L5 Relic": [
         "Lavos Prime Systems Blueprint",
         "Zylok Prime Receiver",
@@ -28,21 +21,21 @@
         "Paris Prime Upper Limb",
         "Okina Prime Blade"
     ],
-    "Lith N16 Relic": [
-        "Nautilus Prime Cerebrum",
-        "Trumna Prime Stock",
-        "Gauss Prime Blueprint",
-        "Fang Prime Blueprint",
-        "Braton Prime Barrel",
-        "Gunsen Prime Blueprint"
+    "Lith M10 Relic": [
+        "Masseter Prime Blade",
+        "Burston Prime Barrel",
+        "Grendel Prime Chassis Blueprint",
+        "Orthos Prime Handle",
+        "Sevagoth Prime Systems Blueprint",
+        "Acceltra Prime Blueprint"
     ],
-    "Lith Q1 Relic": [
+    "Lith Q2 Relic": [
         "Quassus Prime Blade",
-        "Fulmin Prime Stock",
+        "Epitaph Prime Barrel",
         "Nautilus Prime Systems",
-        "Zylok Prime Barrel",
-        "Bronco Prime Receiver",
-        "Wisp Prime Systems Blueprint"
+        "Daikyu Prime Blueprint",
+        "Burston Prime Stock",
+        "Trumna Prime Blueprint"
     ],
     "Lith S16 Relic": [
         "Sevagoth Prime Chassis Blueprint",
@@ -51,12 +44,20 @@
         "Masseter Prime Handle",
         "Xaku Prime Neuroptics Blueprint"
     ],
-    "Lith W4 Relic": [
-        "Wisp Prime Chassis Blueprint",
-        "Epitaph Prime Barrel",
-        "Masseter Prime Blueprint",
-        "Burston Prime Stock",
-        "Protea Prime Blueprint"
+    "Lith Y1 Relic": [
+        "Yareli Prime Neuroptics Blueprint",
+        "Trumna Prime Stock",
+        "Zylok Prime Receiver",
+        "Braton Prime Blueprint",
+        "Nautilus Prime Carapace",
+        "Lex Prime Barrel"
+    ],
+    "Lith Z4 Relic": [
+        "Zylok Prime Blueprint",
+        "Okina Prime Handle",
+        "Sevagoth Prime Blueprint",
+        "Velox Prime Receiver",
+        "Yareli Prime Chassis Blueprint"
     ],
     "Meso A7 Relic": [
         "Akarius Prime Blueprint",
@@ -87,6 +88,13 @@
         "Paris Prime Lower Limb",
         "Braton Prime Stock"
     ],
+    "Meso K7 Relic": [
+        "Kompressa Prime Barrel",
+        "Acceltra Prime Receiver",
+        "Epitaph Prime Blueprint",
+        "Masseter Prime Handle",
+        "Protea Prime Blueprint"
+    ],
     "Meso N11 Relic": [
         "Nyx Prime Neuroptics Blueprint",
         "Valkyr Prime Neuroptics Blueprint",
@@ -101,34 +109,27 @@
         "Acceltra Prime Blueprint",
         "Masseter Prime Handle"
     ],
-    "Meso P15 Relic": [
+    "Meso P16 Relic": [
         "Protea Prime Systems Blueprint",
-        "Gunsen Prime Handle",
-        "Bronco Prime Receiver",
-        "Gauss Prime Chassis Blueprint",
-        "Zylok Prime Barrel"
-    ],
-    "Meso T7 Relic": [
-        "Trumna Prime Barrel",
-        "Gauss Prime Neuroptics Blueprint",
+        "Daikyu Prime Upper Limb",
         "Akarius Prime Link",
-        "Okina Prime Blade",
-        "Wisp Prime Systems Blueprint",
-        "Burston Prime Stock"
+        "Trumna Prime Blueprint",
+        "Braton Prime Stock"
     ],
-    "Meso V10 Relic": [
-        "Velox Prime Barrel",
-        "Paris Prime Upper Limb",
-        "Fulmin Prime Stock",
-        "Protea Prime Blueprint",
-        "Acceltra Prime Blueprint"
+    "Meso T8 Relic": [
+        "Trumna Prime Barrel",
+        "Protea Prime Neuroptics Blueprint",
+        "Akarius Prime Link",
+        "Burston Prime Stock",
+        "Xaku Prime Neuroptics Blueprint",
+        "Lex Prime Receiver"
     ],
-    "Neo A13 Relic": [
+    "Neo A14 Relic": [
         "Acceltra Prime Barrel",
-        "Sevagoth Prime Blueprint",
-        "Wisp Prime Neuroptics Blueprint",
-        "Lex Prime Barrel",
-        "Akarius Prime Barrel"
+        "Yareli Prime Blueprint",
+        "Cedo Prime Stock",
+        "Gauss Prime Chassis Blueprint",
+        "Bronco Prime Blueprint"
     ],
     "Neo C6 Relic": [
         "Cedo Prime Blueprint",
@@ -144,12 +145,20 @@
         "Lex Prime Receiver",
         "Paris Prime String"
     ],
-    "Neo G8 Relic": [
+    "Neo D10 Relic": [
+        "Daikyu Prime Grip",
+        "Velox Prime Blueprint",
+        "Gauss Prime Blueprint",
+        "Lex Prime Blueprint",
+        "Akarius Prime Barrel"
+    ],
+    "Neo G9 Relic": [
         "Gauss Prime Systems Blueprint",
-        "Xaku Prime Chassis Blueprint",
-        "Okina Prime Handle",
-        "Fulmin Prime Barrel",
-        "Bronco Prime Blueprint"
+        "Bronco Prime Barrel",
+        "Masseter Prime Blueprint",
+        "Kompressa Prime Blueprint",
+        "Bronco Prime Receiver",
+        "Gauss Prime Blueprint"
     ],
     "Neo T9 Relic": [
         "Trumna Prime Receiver",
@@ -165,26 +174,12 @@
         "Venka Prime Blades",
         "Nyx Prime Blueprint"
     ],
-    "Neo W2 Relic": [
-        "Wisp Prime Blueprint",
-        "Burston Prime Barrel",
-        "Trumna Prime Blueprint",
-        "Nautilus Prime Carapace",
-        "Akbronco Prime Blueprint"
-    ],
     "Neo X1 Relic": [
         "Xaku Prime Blueprint",
         "Braton Prime Receiver",
         "Quassus Prime Blueprint",
         "Lavos Prime Chassis Blueprint",
         "Akarius Prime Barrel"
-    ],
-    "Axi F3 Relic": [
-        "Fulmin Prime Receiver",
-        "Bronco Prime Barrel",
-        "Lavos Prime Blueprint",
-        "Epitaph Prime Blueprint",
-        "Braton Prime Stock"
     ],
     "Axi G14 Relic": [
         "Grendel Prime Systems Blueprint",
@@ -201,6 +196,13 @@
         "Acceltra Prime Blueprint",
         "Grendel Prime Neuroptics Blueprint"
     ],
+    "Axi N13 Relic": [
+        "Nautilus Prime Cerebrum",
+        "Kompressa Prime Receiver",
+        "Quassus Prime Handle",
+        "Protea Prime Blueprint",
+        "Okina Prime Blade"
+    ],
     "Axi O6 Relic": [
         "Okina Prime Blueprint",
         "Zylok Prime Receiver",
@@ -214,13 +216,6 @@
         "Dual Zoren Prime Handle",
         "Velox Prime Receiver",
         "Fang Prime Blueprint"
-    ],
-    "Axi P9 Relic": [
-        "Protea Prime Systems Blueprint",
-        "Gauss Prime Neuroptics Blueprint",
-        "Orthos Prime Handle",
-        "Gunsen Prime Blueprint",
-        "Trumna Prime Blueprint"
     ],
     "Axi S8 Relic": [
         "Scindo Prime Blade",
@@ -236,12 +231,18 @@
         "Cernos Prime String",
         "Lex Prime Receiver"
     ],
-    "Axi Z2 Relic": [
-        "Zylok Prime Blueprint",
-        "Acceltra Prime Receiver",
-        "Sevagoth Prime Blueprint",
-        "Lex Prime Blueprint",
-        "Gauss Prime Blueprint",
-        "Fulmin Prime Barrel"
+    "Axi V12 Relic": [
+        "Velox Prime Barrel",
+        "Xaku Prime Chassis Blueprint",
+        "Gauss Prime Neuroptics Blueprint",
+        "Daikyu Prime String",
+        "Zylok Prime Barrel"
+    ],
+    "Axi Y1 Relic": [
+        "Yareli Prime Systems Blueprint",
+        "Paris Prime Upper Limb",
+        "Lavos Prime Blueprint",
+        "Fang Prime Blueprint",
+        "Sevagoth Prime Neuroptics Blueprint"
     ]
 }
